@@ -1,0 +1,49 @@
+/* About.css
+.about {
+    background-color: #f8f9fa;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .about-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  } */
+  
+  /* About.css */
+.about {
+  background-image: url('./blkladywht.jpg');
+  
+  padding: 100px 20px;
+  text-align: center;
+  background-size: 35%;
+   
+}
+
+.about-content {
+  /* background-image: url('./blkladywht.jpg'); */
+  /* background-size:cover; */
+  max-width: 600px;
+  margin: 0 auto;
+  color: rgb(244, 241, 235);
+}
+
+.about h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
